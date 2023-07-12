@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robotsFriends/static/css/main.146b10e1.css",
+    "main.js": "/robotsFriends/static/js/main.c615f631.js",
+    "index.html": "/robotsFriends/index.html",
+    "main.146b10e1.css.map": "/robotsFriends/static/css/main.146b10e1.css.map",
+    "main.c615f631.js.map": "/robotsFriends/static/js/main.c615f631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146b10e1.css",
+    "static/js/main.c615f631.js"
+  ]
+}
